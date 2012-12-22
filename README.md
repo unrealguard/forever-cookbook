@@ -1,0 +1,1 @@
+This is my attempt to create a cookbook that will setup the node program forever on a chef client.
